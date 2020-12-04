@@ -6,7 +6,9 @@
 
 [![Creative Preview](https://assets.startbootstrap.com/img/screenshots/themes/creative.png)](https://startbootstrap.github.io/startbootstrap-creative/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-creative/)**
+**[View Live Preview demo1](https://shenweiyan.github.io/startbootstrap-creative/)**
+
+**[View Live Preview demo2](https://startbootstrap.github.io/startbootstrap-creative/)**
 
 ## Status
 
